@@ -1,3 +1,3 @@
 # resume
 
-Inspired by strml.net and implement by Vue.js.
+灵感来自于strml.net，由Vue.js实现。
